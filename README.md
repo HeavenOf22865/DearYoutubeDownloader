@@ -10,4 +10,4 @@ Used libraries:
 
 TODO:
 1. Downloading progressbar
-2. Maybe .ini config (Saving downloading path)
+2. Maybe .ini config (Saving last downloading path)
