@@ -7,3 +7,7 @@ Used libraries:
 [DearPyGui](https://github.com/hoffstadt/DearPyGui),
 [yt-dlp](https://github.com/yt-dlp/yt-dlp),
 [pyinstaller](https://github.com/pyinstaller/pyinstaller) (For building .exe file)
+
+TODO:
+1. Downloading progressbar
+2. Maybe .ini config (Saving downloading path)
